@@ -1,0 +1,39 @@
+# Node modules
+node_modules/
+
+# Build folders
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+
+# Environment variables
+.env
+
+# ML Models
+models/
+*.h5
+*.pkl
+
+# Dataset folders
+ml_dataset/
+oil-spill/
+dataset/
+data/
+images/
+
+# Ignore image files
+*.jpg
+*.png
+*.jpeg
+
+# Large documents (optional)
+*.pdf
+*.docx
+*.pptx
+
+# OS files
+.DS_Store
+Thumbs.db
